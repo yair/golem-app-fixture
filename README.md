@@ -11,3 +11,5 @@ worked example in the `golem-apps` skill (`~/w/skills/golem-apps`).
 
 `FIXTURE_FAIL_HEALTH_VERSION=<sha>` makes exactly that release fail its
 health check, which is how the rollback path is tested.
+
+Second release, for golem's rollback test.
